@@ -14829,7 +14829,7 @@ fieldset:disabled .btn {
 }
 
 .logo {
-  background: url("../../img/logo.png") center no-repeat;
+  background: url("../img/logo.png") center no-repeat;
   display: block;
   width: 296px;
   height: 84px;
