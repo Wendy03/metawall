@@ -14830,13 +14830,9 @@ fieldset:disabled .btn {
 
 .logo {
   background: url("../img/logo.png") center no-repeat;
-  display: block;
   width: 296px;
   height: 84px;
   text-indent: 101%;
-  overflow: hidden;
-  white-space: nowrap;
   background-size: contain;
-  margin: auto;
 }
 /*# sourceMappingURL=all.css.map */
